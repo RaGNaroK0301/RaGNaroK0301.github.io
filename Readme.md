@@ -1,14 +1,12 @@
-# Please visit my [Online CV]()
+# Please visit my [Online CV](https://RaGNaroK0301.github.io)
+
+**Or**
+
+**[Download Word](https://ragnarok0301.github.io/resume/CV.docx) | [Download PDF](https://ragnarok0301.github.io/resume/CV.pdf)**
 <br />
-## Or
-<br />
-###[Download Word]() | [Download PDF]()
-<br />
-<br />
-<br />
-<br />
-# ÇëÎÊ·ÃÎÊÎÒµÄ[ÔÚÏß¼òÀú]()
-<br />
-## »ò
-<br />
-###[ÏÂÔØWord]() | [ÏÂÔØPDF]()
+
+# è¯·è®¿é—®æˆ‘çš„[åœ¨çº¿ç®€å†](https://RaGNaroK0301.github.io)
+
+**æˆ–**
+
+**[ä¸‹è½½Word](https://ragnarok0301.github.io/resume/ç®€å†.docx) | [ä¸‹è½½PDF](https://ragnarok0301.github.io/resume/ç®€å†.pdf)**
