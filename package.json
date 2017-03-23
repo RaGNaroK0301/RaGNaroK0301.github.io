@@ -1,0 +1,28 @@
+{
+  "name": "CV",
+  "version": "1.0.0",
+  "description": "Jerry Zheng's CV",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RaGNaroK0301/RaGNaroK0301.github.io.git"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "Front-end"
+  ],
+  "author": "JerryZheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaGNaroK0301/RaGNaroK0301.github.io/issues"
+  },
+  "homepage": "https://github.com/RaGNaroK0301/RaGNaroK0301.github.io",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-ruby-sass": "^1.0.5"
+  }
+}
